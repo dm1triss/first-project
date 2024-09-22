@@ -4,3 +4,9 @@ p {
   color: black;
   font-family: 'Times New Roman', Times, serif;
 }
+span {
+  font-size: 400;
+  font-weight: 200;
+  color:white;
+  font-family: sans-serif;
+}
